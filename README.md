@@ -1,6 +1,8 @@
-# Project-commodities Analysis Tool
-## Presentation details
+# Commodities Analysis Tool
 
+![commodity-bodies_800x450](https://user-images.githubusercontent.com/83671629/124340309-3d8fd580-db82-11eb-9a5c-200f5721d1a8.png)
+
+## Presentation details
 
 *  The project's core message or hypothesis.
    1. This tool analyzes commodities market by sector (Energy, Precious metals. Industrial metals and Agriculture).
