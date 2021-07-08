@@ -47,7 +47,8 @@ Variable creation, table transposing, data slicing and creating new dataframes.
    There were few commodidites which were affected very little by Covid pandamic (crude oil, cooking oil).  
 
 *  ### The implications of the findings (for an open-ended discussion about what the findings).
-   
+   How do you think COVID affect the market?
+   Did the vaccination rates impact and commodities?
 
 *  ###  The story! . Find a narrative and use analysis and visualization skills to highlight conflict and resolution in the data.
   
