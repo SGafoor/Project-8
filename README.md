@@ -7,10 +7,10 @@
       This tool analyzes commodities market by sector (Energy, Precious metals, Industrial metals, and Agriculture).
    
 *  ### The questions group found interesting, and why.
-    1. What are commodities market and its performance.
-    2. What are the effects of Covid on the selected commodities.
-    3. How has Covid vaccination affected the trend of the commodities.
-    4. What are the few factors affecting commodoties market 
+    1. What is the  commodities market and how did it perform in covid?
+    2. What are the effects of Covid on the selected commodities?
+    3. How has Covid vaccination rates affected the trends of these commodities?
+    4. What are the few factors affecting the commodoties market?
 
 *  ### Summary of how, and where, the data was found to answer these questions.
 
