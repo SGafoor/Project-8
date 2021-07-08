@@ -7,7 +7,7 @@
       This tool analyzes commodities market by sector (Energy, Precious metals, Industrial metals, and Agriculture).
    
 *  ### The questions group found interesting, and why.
-    1. What is commodities market and its performance.
+    1. What are commodities market and its performance.
     2. What are the effects of Covid on the selected commodities.
     3. How has Covid vaccination affected the trend of the commodities.
     4. What are the few factors affecting commodoties market 
@@ -44,7 +44,7 @@ Variable creation, table transposing, data slicing and creating new dataframes.
   
    It was concluded that Covid affected most of the commodidities market in 2020 on a downward trend. 
    The market saw a very steep rise in the following year i.e. 2021.
-   There were few commodidites which were affected very little by Covid pandamic.  
+   There were few commodidites which were affected very little by Covid pandamic (crude oil, cooking oil).  
 
 *  ### The implications of the findings (for an open-ended discussion about what the findings).
   
